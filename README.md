@@ -18,6 +18,8 @@
 - Public endpoint for testing
 - ES6-friendly
 
+## I have used this code from codingly.io for the auth function. I have used GPL v3 - let me know if anyone has objections and I am happy to converse and make appropriate changes. The intention is to provide others the freedom to make copies and change as needed.
+
 ## Getting started
 
 ### 1. Clone the repository (or generate a serverless project)
